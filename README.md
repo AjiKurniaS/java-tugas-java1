@@ -1,2 +1,2 @@
-# java-tugas-java1
+# AjiKurniaS
 Tugas Java1 AjiKS
